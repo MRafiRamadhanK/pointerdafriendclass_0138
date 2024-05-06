@@ -17,4 +17,5 @@ private :
 	int id;
 public:
 	void setId(int pid);
+	void displayAll(orang& a);
 }; 
