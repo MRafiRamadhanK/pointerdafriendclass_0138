@@ -28,7 +28,8 @@ void orang::setNama(string pNama) {
 	nama = pNama;
 }
 
-void siswa :: (int pId) {
+void siswa :: setId(int pId )
+{
 	id = pId;
 }
 
@@ -39,5 +40,5 @@ int main()
 	siswa joko_siswa;
 	joko_siswa.setId(1);
 	joko_siswa.displayAll(joko);
-	return 0
+	return 0;
 }
