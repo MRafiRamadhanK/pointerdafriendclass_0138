@@ -28,3 +28,6 @@ void orang::setNama(string pNama) {
 	nama = pNama;
 }
 
+void siswa :: (int pId) {
+	id = pId;
+}
