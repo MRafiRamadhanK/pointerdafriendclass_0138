@@ -17,4 +17,4 @@ private :
 	int id;
 public:
 	void setId(int pid);
-};
+}; 
